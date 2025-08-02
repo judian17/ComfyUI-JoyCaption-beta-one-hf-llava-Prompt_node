@@ -4,3 +4,6 @@ Since installing the GPU version of llama-cpp-python can be challenging, I have 
 
 I have separated the prompt template used by the [ComfyUI-joycaption-beta-one-GGUF](https://github.com/judian17/ComfyUI-joycaption-beta-one-GGUF) node into this dedicated node. 
 
+<img width="2878" height="1594" alt="JoyCaption-beta-one_workflow" src="https://github.com/user-attachments/assets/2cc2b01f-b708-4ca5-bce0-40636c42aed8" />
+
+
